@@ -2,4 +2,4 @@ Layout: slide
 title: "welcome to our second slide!"
 
 Your test
-Use the left arrow to go back!
+Now i finally found three dots!
